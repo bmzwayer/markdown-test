@@ -8,6 +8,9 @@ cd | change directory | relocates into different folder
 rm | remove | deletes file or folder  
 mv | move | relocates file or folder  
 cp | copy | replicates file or folder  
+cd ~ | change directory to home | sends you back to home directory  
+cd .. | change directory parent | sends you to parent directory of current position  
+
 
 **Things to Remember:**  
 * -R means recursive and it selects all elements within that directory (for cp and rm)
