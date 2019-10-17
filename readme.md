@@ -1,4 +1,4 @@
-**Bash Command Cheat Sheet**  
+##**Bash Command Cheat Sheet**  
 
 *Syntax* | *Command* | *Meaning*  
 ------ | ------- | -------  
